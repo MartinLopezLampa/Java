@@ -8,7 +8,7 @@ package DataStructures.Queues;
  */
 class Queue {
   /** Default initial capacity. */
-  private static final int DEFAULT_CAPACITY = 10;
+  private static final int DEFAULT_CAPACITY = 10
 
   /** Max size of the queue */
   private int maxSize;
